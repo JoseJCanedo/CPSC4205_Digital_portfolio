@@ -1,7 +1,7 @@
 # Career Specific Portfolio
 As you venture out to find a job in the field of your choice you will need to be able to prove that you know how to use the technologies or languages. 
 
-Take a look at this video about a [programming portfolio and creating one](https://getbootstrap.com/docs/5.1/getting-started/introduction/).
+Take a look at this video about a [programming portfolio and creating one](https://m.youtube.com/watch?v=l7ByJtQ8bv4).
 
 You may not be interested in programming as a job choice and I completely respect that, but the information contained in the short video does have its merits. 
 
